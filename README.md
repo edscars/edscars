@@ -2,7 +2,7 @@
  # 👋  hi I'm ed_scars
  - 🌱I speak Portuguese and erasable english
 -  👍 new student in the area
-- ♟️ discord **Usuário não encontrado#3792**
+- ♟️ discord: **Usuário não encontrado#3792**
 - ❎ **unprofessional profile**
 - 🥳 welcome to my profile
 <!---
