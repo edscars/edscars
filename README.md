@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edscars&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  
+  ##
 - 🌱 falo português 
 -  👍 novo na area "estudando html e css_javascript"
 - ♟️ discord: **Usuário não encontrado#3792**
